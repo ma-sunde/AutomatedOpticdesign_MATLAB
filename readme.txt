@@ -32,7 +32,7 @@ Set_NIR_System_V4.m -			Baut das System im sequentiellen Modus auf.
 ... Die restlichen Programme gleichen sich vom prinzip her mit denen des VIS-Systems.
 
 
-Made by: Lukas Hanisch
+Made by: Max Caspar Sundermeier & Lukas Hanisch
 ZOS-Version: 21.1.2
 Matlab-Version: R2020b
 
